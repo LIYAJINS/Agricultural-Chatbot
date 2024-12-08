@@ -35,5 +35,9 @@ Use this as a fallback:
 python -m uvicorn malayalam:app --reload
 The FastAPI server will be running on http://localhost:8000.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1evmt1D0D3lt3VnmV2mWqlg-r-c_D4p6p#scrollTo=71QefF0A2hQe)
+
+
+
  
 

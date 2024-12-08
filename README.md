@@ -56,7 +56,8 @@ If the virtual environment fails, use the fallback:
 
 python -m venv venv
 
-Install Dependencies:mentioned in requirements.txt
+Install Dependencies:pip install fastapi pydantic llama-cpp-python uvicorn
+
 Start the Backend Server:
 
 uvicorn malayalam:app --reload
